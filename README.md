@@ -11,7 +11,7 @@ Determine ways to bring the controls of these instruments out of the rooms, wher
 Due to the rapid need for these enhancements, testing on actual hardware will be limited, and in no way meet the usual requirements for the healthcare industry. While these risks are probably unacceptable for some instruments, for others it might be worth the risk to reduce exposure to our most important workers. Here we are only trying to provide doctors with more options.
 
 # What needs to be done?
-- Determine what hardware is in need for these modifications. 
+- Determine what hardware is in need for these modifications (PROVIDERS: please see the [wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki)!)
 - Acquire user manuals and service manuals for these instruments
 - Conceptualize a solution
 - Reach out to the medical device manufactures for their input on how best to implement these adaptations
