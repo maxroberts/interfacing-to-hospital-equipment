@@ -16,7 +16,10 @@ Due to the rapid need for these enhancements, testing on actual hardware will be
 - Reach out to the medical device manufactures for their input on how best to implement these adaptations
 
 # Instruments to Investigate
-- Alaris IV pumps, Model #8015 (Alaris PCU/Brain), Model #8100 (Channel)
-- Phillips monitors
-- Puritan-Bennett 840 Ventilators
+- [Alaris IV pumps, Model #8015 (Alaris PCU/Brain), Model #8100 (Channel)](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Alaris-IV-pumps)
+- [Phillips Monitors](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Phillips-monitors)
+- [Puritan-Bennett 840 Ventilators](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Puritan-Bennett-840-ventilators)
+- [Respironics V60 Ventilator](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Respironics-v60-ventilator)
+- [Dash 3000 Bedside Monitor](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Dash-3000-monitor)
+- [Braun Infusomat Space Pump](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Braun-infusomat-pump)
 - Add more here!
