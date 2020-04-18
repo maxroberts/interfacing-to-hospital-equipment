@@ -14,3 +14,9 @@ Due to the rapid need for these enhancements, testing on actual hardware will be
 - Determine what hardware is in need for these modifications. 
 - Acquire user manuals and service manuals for these instruments
 - Reach out to the medical device manufactures for their input on how best to implement these adaptations
+
+# Instruments to Investigate
+- Alaris IV pumps, Model #8015 (Alaris PCU/Brain), Model #8100 (Channel)
+- Phillips monitors
+- Puritan-Bennett 840 Ventilators
+- Add more here!
