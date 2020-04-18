@@ -19,10 +19,10 @@ Due to the rapid need for these enhancements, testing on actual hardware will be
 - Reach out to doctors/hospitals for equipment that could be used for testing (disfunctional, excess)
 
 # Instruments to Investigate
-- [Alaris IV pumps, Model #8015 (Alaris PCU/Brain), Model #8100 (Channel)](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Alaris-IV-pumps)
-- [Phillips Monitors](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Phillips-monitors)
-- [Puritan-Bennett 840 Ventilators](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Puritan-Bennett-840-ventilators)
-- [Respironics V60 Ventilator](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Respironics-v60-ventilator)
-- [Dash 3000 Bedside Monitor](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Dash-3000-monitor)
-- [Braun Infusomat Space Pump](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Braun-infusomat-pump)
+- Alaris IV pumps ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Alaris-IV-Pumps), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Alaris-IV-pumps))
+- Phillips Monitors ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Phillips-Monitors), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Phillips-monitors))
+- Puritan-Bennett 840 Ventilators ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Puritan-Bennett-840-Ventilators), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Puritan-Bennett-840-ventilators))
+- Respironics V60 Ventilator ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Respironics-V60-Ventilator), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Respironics-v60-ventilator))
+- Dash 3000 Bedside Monitor ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Dash-3000-Bedside-Monitor), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Dash-3000-monitor))
+- Braun Infusomat Space Pump ([wiki](https://github.com/maxroberts/interfacing-to-hospital-equipment/wiki/Braun-Infusomat-Space-Pump), [files](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Braun-infusomat-pump))
 - Add more here!
