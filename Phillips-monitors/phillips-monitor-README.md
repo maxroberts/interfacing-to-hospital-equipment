@@ -2,7 +2,7 @@
 No information yet
 
 # Notes
- - none
+ - These might already have remote access options... not sure though.
 
 # Documentation
  - none
