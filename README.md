@@ -13,7 +13,10 @@ Due to the rapid need for these enhancements, testing on actual hardware will be
 # What needs to be done?
 - Determine what hardware is in need for these modifications. 
 - Acquire user manuals and service manuals for these instruments
+- Conceptualize a solution
 - Reach out to the medical device manufactures for their input on how best to implement these adaptations
+- Prototype something
+- Reach out to doctors/hospitals for equipment that could be used for testing (disfunctional, excess)
 
 # Instruments to Investigate
 - [Alaris IV pumps, Model #8015 (Alaris PCU/Brain), Model #8100 (Channel)](https://github.com/maxroberts/interfacing-to-hospital-equipment/tree/master/Alaris-IV-pumps)
