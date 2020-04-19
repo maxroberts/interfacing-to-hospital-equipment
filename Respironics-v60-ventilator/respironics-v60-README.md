@@ -2,7 +2,8 @@
 This is a common ventilator. Add more basic details here.
 
 # Notes
- - Pictures with lots of information! Take info from pics, find manuals!
+ - User manual, Appendix B discusses the RS-232 comm port and functionality
 
 # Documentation
  - Pictures of device and labels
+ - User manual
