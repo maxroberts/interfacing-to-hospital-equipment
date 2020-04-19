@@ -1,4 +1,4 @@
-# Alaris IV Pumps, Model #8015/#8100
+# Alaris IV Pumps Model #8015/#8100
 This is a common IV pump. Add more basic details here.
 
 ## Notes
